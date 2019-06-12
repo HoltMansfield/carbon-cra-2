@@ -5,7 +5,7 @@ import { Button } from 'carbon-components-react'
 function App() {
   return (
     <div>
-      <Button>Hello React!</Button>
+      <Button>LEFT ALIGNED</Button>
     </div>
   )
 }
